@@ -1,0 +1,46 @@
+Home Page (index.html) - Type this HTML code into the editor:
+      
+<!doctype html>
+      <html lang="en">
+        <head>
+          <meta charset="utf-8">
+          <title>Home Page</title>
+        </head>
+        <body>
+          <a href="portfolio.html">Portfolio</a>
+          <a href="aboutme.html">About Me</a>   
+        <h1>This is my Index Page!</h1>
+   	  
+</body>
+      </html>
+
+Portfolio Page (portfolio.html) - Type this HTML code into the editor:
+      
+<!doctype html>
+      <html lang="en">
+        <head>
+          <meta charset="utf-8">
+          <title>Portfolio</title>
+        </head>
+        <body>
+        <a href="index.html">Home</a>
+        <a href="aboutme.html">About Me</a>  
+        <h1>This is my Portfolio Page!</h1>
+</body>
+      </html>
+
+About Me Page (aboutme.html) - Type this HTML code into the editor:
+      
+<!doctype html>
+      <html lang="en">
+        <head>
+          <meta charset="utf-8">
+          <title>About Me</title>
+        </head>
+        <body>
+        <a href="index.html">Home</a>
+        <a href="portfolio.html">Portfolio</a>
+        <h1>This is my About Me Page!</h1>
+
+</body>
+      </html>
